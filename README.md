@@ -12,5 +12,5 @@
 - [品优购](https://mark129428.github.io/pinyougou/)纯HTML,CSS项目
 - [todolist](https://mark129428.github.io/todolist) 一个使用React Hooks和一些有趣的库搭建的网站
 - [服装管理小程序](https://gitee.com/LYL200909/software-exercise)正应为这个小程序我慢慢开始系统学习前端
-- [桃宝网]() 一个使用Vue 和 KOA + mongoDB搭建的网站 
-- [易壁纸]() 使用React和KOA搭建的网站
+- [桃宝网](https://gitee.com/he-hongkai/vue_mall_fullstack) 一个使用Vue 和 KOA + mongoDB搭建的网站 
+- [易壁纸](https://gitee.com/he-hongkai/yi_wallpaper) 使用React和KOA搭建的网站
