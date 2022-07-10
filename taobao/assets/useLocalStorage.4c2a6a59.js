@@ -1,1 +1,0 @@
-import{h as a,w as r}from"./index.c4474867.js";function i(e,o){const t=a(o);return o?window.localStorage.setItem(e,JSON.stringify(o)):t.value=JSON.parse(window.localStorage.getItem(e)),r(t,()=>{window.localStorage.setItem(e,JSON.stringify(t.value))}),t}export{i as u};
